@@ -1,4 +1,4 @@
 # hello-world
-Hi, my first step to learning programming.
+Preparing to learn programming.
 
 Hi, my name is Chuong and I want to teach myself programming.
